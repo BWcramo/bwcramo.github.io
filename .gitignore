@@ -1,0 +1,8 @@
+# Ignore local files
+.DS_Store
+.vscode/
+.env
+__pycache__/
+*.pyc
+node_modules/
+dist/
